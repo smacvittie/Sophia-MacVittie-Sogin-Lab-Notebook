@@ -6,9 +6,7 @@ categories: Bioinformatics
 tags: [DNA]
 ---
 
-### Objective:
-
-Sediments isolated from P. oceanica Rhizosphere were initially binned using co-assembly approaches and automated binning. I am interested trying to get a better chromatiales bin that we might use for a pangenomics appraoch (current one is only 85% complete). 
+_**Objective:**_ Sediments isolated from P. oceanica Rhizosphere were initially binned using co-assembly approaches and automated binning. I am interested trying to get a better chromatiales bin that we might use for a pangenomics appraoch (current one is only 85% complete). 
 
 The goal today will be to run the metagenomics pipeline from Anvio to get a better chromatiales bin from our sediment libraries.  
 
