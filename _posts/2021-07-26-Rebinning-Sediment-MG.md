@@ -34,6 +34,7 @@ Data and workflow published in Sogin et al. 2021
 Based on Anvio metagneomics workflow published [here](https://merenlab.org/2016/06/22/anvio-tutorial-v2/)
 
 Log into Cologn Server using ssh tunnel
+
 ```ssh -L 6060:localhost:6060: maggie@server.university.de```
 
 Activate Anvio: 
@@ -42,6 +43,7 @@ Activate Anvio:
 1. Generate an anvio database
 
 This takes a while to run; run using a bash script:
+
 
 ```bash
 #!/bin/bash
