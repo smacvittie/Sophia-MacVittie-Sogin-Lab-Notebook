@@ -3,7 +3,7 @@ layout: post
 title: Rebinning Sediment Metagenomes
 date: '2021-07-26'
 categories: Bioinformatics
-tags: [DNA][anvio]
+tags: [DNA]
 ---
 
 _**Objective:**_ Sediments isolated from P. oceanica Rhizosphere were initially binned using co-assembly approaches and automated binning. I am interested trying to get a better chromatiales bin that we might use for a pangenomics appraoch (current one is only 85% complete). 
