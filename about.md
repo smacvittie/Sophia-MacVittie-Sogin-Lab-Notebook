@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
 
 I am a microbial ecologist interested in all things marine symbiosis. My goal is to understand how the enviornment shapes host-microbe interactions and how this impacts biology. 
 
