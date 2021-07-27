@@ -13,8 +13,9 @@ The goal today will be to run the metagenomics pipeline from Anvio to get a bett
 ### Set up
 Project Nr: prj001-comp-gene-chr
 
-Base Directory (in Cologn):
-	```/opt/extern/bremen/symbiosis/sogin/prj001-comp-gene-chr```
+Base Directory (in cologne):
+
+```/opt/extern/bremen/symbiosis/sogin/prj001-comp-gene-chr```
 
 Starting data: 
 
@@ -26,6 +27,7 @@ Data and workflow published in Sogin et al. 2021
 ### File directory structure
 1. 01_Data; contains contigs.fa; and a subdirectory of BAM files (sorted and indexed)
 2. 02_Analysis; contains directory files for anvio analysis 
+3. 03_Scripts; contaains scripts for anvio analysis
 
 
 ### Workflow
