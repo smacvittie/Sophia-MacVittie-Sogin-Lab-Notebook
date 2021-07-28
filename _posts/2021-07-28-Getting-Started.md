@@ -18,9 +18,9 @@ Step by step account used, or a link back to the same protocol in a previous pos
 ## Raw Data
 Any measurements taken or outputs from uitlized programs will go here.
 
-## Data outputs
+## Data Outputs
 If relevant, larger products from data sets may be shared here.
 
-## Concluding thoughts
+## Concluding Thoughts
 Any takehomes, important observations or next steps.
 
