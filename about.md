@@ -5,19 +5,18 @@ permalink: /about/
 ---
 
 
-I am a microbial ecologist interested in all things marine symbiosis. My goal is to understand how the enviornment shapes host-microbe interactions and how this impacts biology. 
+I am a Lab Technician in the Sogin lab at UC Merced. We study Marine microbial symbioses, in particular most of the work found in this notebook will relate to our work with  the seagrasss *Z. marina* and it's associated microbial communities. 
 
-Trying to make updates 
 
 ### More Information
-
-[www.esogin.github.io](www.esogin.github.io)
+For more info check ou the [Sogin Lab Website](www.esogin.github.io)
 
 ### Contact me
-
-[esogin@ucmerced.edu](mailto:esogin@ucmerced.edu)
-
-## <center>E. Maggie Sogin</center>
+#### Email
+[smacvittie@ucmerced.edu](mailto:smacvittie@ucmerced.edu)
+#### Mailing Address
+## <center>Sophia MacVittie</center>
 <center>Molecular and Cell Biology</center>
 <center>University of California at Merced</center>
 <center>5200 N. Lake Road,  Merced, CA</center>
+
