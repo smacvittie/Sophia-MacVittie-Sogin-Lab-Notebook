@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sediment Extraction Chemical Protocol Optimization
-date: 2021-09-014
+date: 2021-09-14
 Categories: Extraction, Seagrass, 
 tags: [Extraction, DNA/RNA, microbe]
 ---
