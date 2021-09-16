@@ -2,7 +2,7 @@
 layout: post
 title: Geting Started
 date: 2021-07-28 
-categories: Bioinformatics
+categories: Goals
 tags: [Organization]
 ---
 
