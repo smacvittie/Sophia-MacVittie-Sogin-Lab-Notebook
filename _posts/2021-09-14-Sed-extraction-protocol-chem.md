@@ -2,7 +2,7 @@
 layout: post
 title: Sediment Extraction Chemical Protocol Optimization
 date: 2021-09-14
-categories: Extraction
+categories: Extraction Sediment
 tags: [Extraction, DNA/RNA, microbe]
 ---
 
