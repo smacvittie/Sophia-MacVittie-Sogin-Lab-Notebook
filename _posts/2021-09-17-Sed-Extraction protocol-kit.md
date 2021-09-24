@@ -70,7 +70,11 @@ k) Store your samples at -80 $^\circ$ C until they are ready for downstream proc
 
 
 ## Raw Data
-Nanodrop Concentrations to be added
+Nanodrop Concentrations 
+Sample|DNA conc.|DNA 260/280| RNA conc.| RNA 260/280
+------|---------|-----------|----------|------------
+K1|8.4/8.7|1.92/2.16|7.3/6.6|2.18/2.14
+K2| 7.1/8.9|2.13/1.98|8.9/7.6|2.33/2.27
 
 
 ## Concluding Thoughts
