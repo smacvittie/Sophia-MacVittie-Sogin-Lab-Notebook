@@ -20,7 +20,7 @@ a) Thaw samples over ice and keep on ice until flash freezing begins
 
 b)add 0.2 g sample to a pre-filled bead beating tube (lysis matrix B, 0.1mm silicate bead)
 
-c) Add 500ul of a 0.04M solution Sodium Hexametaphosphate over ice, pipette up and down to mix 
+c) Add 500μl of a 0.04M solution Sodium Hexametaphosphate over ice, pipette up and down to mix 
 
 **2. Lysis**
 
@@ -112,6 +112,7 @@ DNA | RNA
 
 ## Raw Data
 **Nano Drop Concentrations:**
+
 Sample | DNA conc.| DNA 260/280 | RNA conc. | RNA 260/280
 -------|----------|-------------|-----------|------------
 F1| 12.1|1.78|29.8/27.9|1.59/1.56
@@ -122,6 +123,7 @@ Z2|3.7|1.41|5.6|1.69
 Z3|2.4|1.65|3.0|1.61
 
 **Bioanalyzer readings:**
+
 Sample| Conc.
 -------|----
 F1
