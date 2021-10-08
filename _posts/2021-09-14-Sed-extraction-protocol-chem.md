@@ -3,7 +3,7 @@ layout: post
 title: Sediment Extraction Chemical Protocol Optimization
 date: 2021-09-14
 categories: Extraction Sediment
-tags: [Extraction, DNA/RNA, microbe]
+tags: [Extraction, DNA/RNA, microbe, bodega-rhizosphere-prodev]
 ---
 
 **Objective:** The objective of this experiment is to optimize an extraction protocol for marine seagrass associated sediment microbial communities. This is a 2 day (September 13th and 14th) process part of a larger multi-day experiment which will work to adjust this protocol to maximize Nucleic acid output. It is adapted from [Lever et. al 2015](./file:/Sophia-Macvittie-Sogin-lab-notebook/protocols/Lever%20et.%20al%202015.pdf).

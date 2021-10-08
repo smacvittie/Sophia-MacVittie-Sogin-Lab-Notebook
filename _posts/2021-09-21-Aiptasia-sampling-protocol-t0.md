@@ -3,7 +3,7 @@ layout: post
 title: Aiptasia Microbiome sampling protocol for PRJ002AiptasiaMM Time 0
 date: 2021-09-21
 categories: Aiptasia
-tags: [sampling, 16s, microbiom manipulation, time series]
+tags: [sampling, 16s, microbiom manipulation, time series, prj002-Aiptasia-MM]
 ---
 ## **Objective:** 
 This Protocol aims to establish a standard Protocol for the sampling of Anemones for the Microbiome Manipulation Experiment , which we will standardize across timepoints. 
