@@ -10,7 +10,7 @@ This is the first use of the ZymoBiomics DNA/RNA Prep minikit. We are hoping thi
 
 
 ## Broader Context
-Both this extraction and the previous entry were done on sediments collected from Bodega in July of 2021. We hope to be able to optimize one or both of these protocols in order to use on these samples containing high columes of humic substances.
+Both this extraction and the previous entry were done on sediments collected from Bodega in July of 2021. We hope to be able to optimize one or both of these protocols in order to use on these samples containing high volumes of humic substances.
 
 ## Protocol 
 In the future Wash Buffer will require 104ml Ethanol added to the concentrate. For the purposes of the sample kit, the Buffer comes ready to Use. 
