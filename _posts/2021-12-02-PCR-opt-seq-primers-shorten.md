@@ -34,4 +34,6 @@ Profile was taken from previous run
  - Cycles: 30
  - Final Extension 72C for 10 minutes
  - Infinite hold: 4C
-  however Extension timeswere also run at 3 and 4 minutes.
+  however Extension times were also run at 3 and 4 minutes.
+
+  the results eem promising however it also appears there was some contamination in the reagents causing an extra band to form, i will rerun with different mastermix and update.
