@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sediment Extraction Kit Protocol Optimization with directly frozen samples.
-date: 2021-11-19
+date: 2021-11-09
 categories: Extraction Sediment
 tags: [Extraction, DNA/RNA, microbe, bodega-rhizosphere-prodev]
 ---

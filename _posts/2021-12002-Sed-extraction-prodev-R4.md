@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sediment Extraction Chemical Protocol Optimization Round 3
-date: 2021-10-12
+date: 2021-11-30
 categories: Extraction Sediment
 tags: [Extraction, DNA/RNA, microbe, bodega-rhizosphere-prodev]
 ---
