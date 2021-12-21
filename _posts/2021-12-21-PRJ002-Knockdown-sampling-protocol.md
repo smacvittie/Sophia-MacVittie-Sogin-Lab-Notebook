@@ -33,4 +33,4 @@ plates were allowed to incubate for 24 hours at 28C at which point CFU counts we
 to monitor morphological changes 
 anemones were transferred to a sterile petri dish to measure wet weight  
 a Keyence BZX710 inverted microscope was used to image individual at each time point and photos of whole plates were also taken with on an iphone
-Finally Pedal lacerates were counted weekly.. samples were moved accross plates once per week during the priming phase and pedal lacerates were discarded, but pedal lacerates from the knockdown phase were kept for the duration onf the experiment.
+Finally Pedal lacerates were counted weekly.. samples were moved accross plates once per week during the priming phase and pedal lacerates were discarded, but pedal lacerates from the knockdown phase were kept for the duration of the experiment.
