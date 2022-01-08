@@ -25,7 +25,7 @@ Anemones were picked into 1.5ml tubes containing 250ul of FAASW and homogenized 
 50 ul of homogenate/dilution were plated on Marine Agar plates and spread using plating beads.
 plates were allowed to incubate for 24 hours at 28C at which point CFU counts were obtained.
 
-## Flow Cytometry and Protien content
+## Flow Cytometry and Protein content
 20ul of 0.1% SDS solution were added to the remaining aprox. 180ul of sample homogenate ( final conc. 0.01%SDS) and frozen for downstream processing
 
 ## Physiology plates
