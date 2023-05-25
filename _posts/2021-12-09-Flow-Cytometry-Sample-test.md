@@ -41,6 +41,7 @@ Here you can run a preliminary set of samples to pre set your gates or you can w
  When you've finished setting up change over to Acquisition mode and let your plate/ tubes run.
 
  # Analyzing Samples in FlowJo
+ 
  After logging in, drag the samples which you exported from the anlyzer into the program.
  If you have pre drawn gates check them against the samples to make sure they seem to fit the parameters.
  If you havent' drawn your gates yet use the polygon feature to draw anew gate. Your first gate should elimanate off-axis data and should encircle almos all events.
